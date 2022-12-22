@@ -47,4 +47,4 @@ Thumbs.db
 # CEF download directory
 /third_party/cef/
 # clang-format downloads
-/tools/buildtools
+/tools
