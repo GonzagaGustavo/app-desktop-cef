@@ -1,0 +1,16 @@
+{
+  "OutputFoldersPerTargetSystem": {
+    "Computador Local": [
+      "out\\build\\x64-Debug",
+      "out\\install\\x64-Debug"
+    ]
+  },
+  "ExpandedNodes": [
+    "",
+    "\\out\\build",
+    "\\resources",
+    "\\resources\\scheme_handler"
+  ],
+  "SelectedNode": "\\resources",
+  "PreviewInSolutionExplorer": false
+}
