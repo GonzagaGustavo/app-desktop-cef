@@ -48,3 +48,4 @@ Thumbs.db
 /third_party/cef/
 # clang-format downloads
 /tools
+.vs

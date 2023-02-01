@@ -7,10 +7,10 @@
   },
   "ExpandedNodes": [
     "",
-    "\\out\\build",
     "\\resources",
+    "\\resources\\minimal",
     "\\resources\\scheme_handler"
   ],
-  "SelectedNode": "\\resources",
+  "SelectedNode": "\\resources\\minimal\\main_minimal.cc",
   "PreviewInSolutionExplorer": false
 }
